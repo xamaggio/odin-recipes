@@ -39,4 +39,14 @@ div.overview {text-align:center;}
 ul.incredients {display:inline-block;text-align:left;}
 dt.incredients {display:inline-block;text-align:left;}
 
-ol.howto {}
+.recipe-box {margin: 0 80px;
+display: block;}
+
+.recipe-box li {margin:10px 0;
+border-bottom:#88a2aa solid 0.5px;
+border:75%;}
+
+.tipp-card {box-sizing: border-box; border:#88a2aa solid 1px;
+margin:0 20%; color:#e2856e; 
+text-align: center;}
+
